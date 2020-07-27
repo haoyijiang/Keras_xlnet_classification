@@ -1,0 +1,4 @@
+keras==2.4.3
+numpy==1.19.0
+keras_xlnet=0.18.0
+pandas==0.23.4
